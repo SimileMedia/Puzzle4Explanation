@@ -1,0 +1,126 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Explanation for puzzle 4 </title><!-- Chris Karounos Hypertext Resume-->
+<link href="boilerplate.css" rel="stylesheet" type="text/css">
+<link href="Resume.css" rel="stylesheet" type="text/css">
+<!-- 
+To learn more about the conditional comments around the html tags at the top of the file:
+paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/
+
+Do the following if you're using your customized build of modernizr (http://www.modernizr.com/):
+* insert the link to your js here
+* remove the link below to the html5shiv
+* add the "no-js" class to the html tags at the top
+* you can also remove the link to respond.min.js if you included the MQ Polyfill in your modernizr build 
+-->
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script src="respond.min.js"></script>
+
+</head>
+<body>
+<div class="gridContainer clearfix">
+	<!--<div id= "center">-->
+	
+			<h3>  </h3>
+		<div class= "block">
+			<!--	<img class="puzzleimage" src= "Puzzle 3.jpg" alt="biology puzzle" height= "500" >-->
+		</div>	
+		<div class= "block">
+			<p> It has phytochrome which has been shown to sense light levels as low as that produced by moonlight. Vinning plants have Thigmotropism which gives them the ability to feel (better than humans :P) so it can wrap its tendrils around gentle stems. Believe it or not Dodder has been shown to smell tomato plants' green leaf volatiles and preferentially grow towards tomato plants. <a href="http://www.nytimes.com/2006/10/03/science/03find.html?_r=0"> This is the New York Times article </a>  about dodder's "sense of smell"  and <a href= 
+				"http://www.sciencemag.org/cgi/content/abstract/313/5795/1964"> the scientific paper:</a>. </p>
+		
+		
+		</div>
+		<!--	Ivan is an engineering physicist. He had a good philosophy. He just sent his feelers out in every direction and found what worked.-->
+			<!--</div> -->
+		<!--	</div>-->
+
+	<!--<div id="madein">This site's fluid grid layout was made in Dreamweaver </div>
+  <div id="Header">Christopher Karounos</div>
+  
+  <div id="Contact">
+  	<ul>
+    	<li> <a href="tel: 8593964496">(859) 396-4496</a>
+        </li>
+        <script type="text/javascript">
+			if (screen.width > 481){
+				document.write('|');
+			}
+       	</script>
+        <li> 3170 Canyon Crest Dr; Apt 26</li> 
+       	<script type="text/javascript">
+			if (screen.width > 481){
+				document.write('|');
+			}
+       	</script>
+        <li><a href="mailto:ckaroun@gmail.com"> ckaroun@gmail.com </a>
+        </li>
+  	</ul>
+  </div>
+  <div id="Divider" class="separator">Completed Websites</div>
+  <div id="Content" class="content">
+  	<ul>
+     	<li> <a href="goclex.org"> goclex.org </a>; (Biannual Greek Bakesale)</li>
+          &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Coded HTML, CSS, Jquery from scratch. Optimized functionality based off Google Analytics. Made cross-browser compatible using DW as IDE
+        <li> <a href= "hostaltimara.com">hostaltimara.com </a> (Hotel in Banos, Ecuador) </li>
+          &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Adapted from goclex.org HTML/CSS/Jquery code.
+     </ul>
+  </div>
+  <div id="Divider2" class="separator">Programming Languages</div>
+  <div id="Content2" class="content"> HTML/CSS/Jquery (proficient) &nbsp; ~ &nbsp; PHP &nbsp;(learning) &nbsp; ~ &nbsp; MySQL &nbsp;(learning) &nbsp; ~ &nbsp; XML/Xpath &nbsp;(elementary) &nbsp; ~&nbsp; R statistics &nbsp;(proficient)&nbsp;~&nbsp; C++ &nbsp;(proficient) &nbsp;~&nbsp; Python &nbsp;(proficient) </div>
+  <div id="Divider3" class="separator">Design Software</div>
+  <div id="Content3" class="content">Photoshop and Dreamweaver</div>
+  <div id="Divider4" class="separator">Education</div>
+  <div id="Content4" class="content"><p style= "font-weight:bold"> University of Kentucky. 2010 - 2014  | Study Abroad: Universidad de Belgrano. Jan 2013 - Aug 2013 </p> 
+ Degree: B.S. <em> summa cum laude </em>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Major: Biology with <a href="https://bio.as.uky.edu/biology-scholars-program">Honors</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Minor: Spanish, Global Studies   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       GPA: 3.8 <br> <br> 
+ Relevant Courses: &nbsp; Computer Programming I & II, Web Design (School of Art), Computational Biology
+</div>
+  <div id="Divider5" class="separator">Side Projects</div>
+  <div id="Content5" class="content"> 
+  	<ul>
+    	<li> Designing a <a href="build.html"> video game </a> for Third Millennium Alliance using C# and Unity game engine </li>			
+        <li> Search Engine marketing for Third Millennium Alliance’s website tmalliance.org </li>
+    </ul>    
+  </div>
+  <div id="Divider6" class="separator">Work Experience</div>
+  <div id="Content6" class="content">
+  	<ul>
+    	<li> Tutor through<a href="www.wyzant.com/Tutors/KentuckyChris"> Wyzant</a>. ($15-$25/hr) 02/2015- present </li>
+		<li> Interned with <a href="tmalliance.org/internships/" >Third Millennium Alliance</a>. Conducted field study. Analyzed results with GIS and R. (unpaid) 06/2014-09/2014 </li>
+        <li> Tutored organic chemistry, chemistry and biology for <a href="www.uky.edu/Diversity/SSS/"> Student Support Services</a>, a federal program at the University of Kentucky that helps disadvantaged students. ($8/hr) 01/2013 - 05/2014 </li> 
+		<li> Taught weekly rock climbing <a href="www.uky.edu/campusrec/outdoor-pursuits/climbing-wall" >belay and safety class</a> at University of Kentucky gym while working as a rock wall employee. ($7.50/hr) 08/2011-12/2012 </li>
+  	</ul>
+  </div>
+  <div id="Divider7" class="separator">Research Projects</div>
+  <div id="Content7" class="content">Department of Biology, University of Kentucky <br>
+Undergraduate Biology Honors Research <br>
+Research Advisors: Dr. Nicholas McLetchie, Philip H Crowley, Jeremiah Smith  2011- 2014
+	<ul>
+		<li> Empirical test of game theory predictions  in relation to soil nutrient competition in mustard rape.<a href="http://uknowledge.uky.edu/kaleidoscope/vol11/iss1/92/"> Published here </a> </li>
+        <li> Analysis of interspecific interference competition through allelopathy by combining greenhouse experiments with RNA- seq data from NCBI database. Presented at International Symposium on Plant Signaling and Behavior in  New Delhi, India. </li>
+    </ul>
+</div>
+  <div id="Divider8" class="separator">Awards</div>
+  <div id="Content8" class="content">
+  	<ul>
+  		<li> $1000 <a href="www.uky.edu/academy/honors-scholarhips"> Kate Johnson Scholarship</a> for field-based academic effort (2014)</li>
+        <li> $300 University of Kentucky <a href=" http://www.uky.edu/international/node/585"> Education Abroad Scholarship</a> (2014) </li>
+		<li> $1000 University of Kentucky <a href"http://www.uky.edu/academy/research-travel-grant" >travel grants </a> (2014; 2012) </li>
+		<li> $1500 <a href="https://bio.as.uky.edu/scholarships-2"> Ribble Research Scholarship </a> for excellence in research and academics (2012) </li>
+		<li> Honorable mention for <a href="http://www.uky.edu/academy/oswald" > Oswald Research and Creativity Award </a> in biology (2012) </li>
+		<li> $200 University of Kentucky Honors Program <a href="www.uky.edu/academy/honors-scholarhips">Independent Project Grant</a> (2011) </li>
+    </ul>
+  </div> -->
+</div>
+</body>
+</html>
